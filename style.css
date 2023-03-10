@@ -1,0 +1,100 @@
+.main {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    width: 100%;
+    max-width: 1920px;
+    height: 100px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: start;
+}
+
+.buttons button {
+    top: 20px;
+    position: relative;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    background-color: #004DFF;
+}
+
+
+.name {
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+
+.age {
+    height: 40px;
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+
+table {
+    width: 100%;
+    max-width: 1920px;
+    margin: 0 auto;
+}
+
+thead {
+    text-align: start;
+    color: gray;
+}
+
+.modal {
+    width: 500px;
+    height: 200px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.modal input {
+    width: 300px;
+    height: 50px;
+    align-items: center;
+    border-radius: 15px;
+    text-align: center;
+    color: black;
+    font-size: 20px;
+}
+
+.modal button {
+    width: 250px;
+    border-radius: 15px;
+    background-color: gray;
+    text-align: center;
+    height: 50px;
+    color: white;
+    border: 2px solid antiquewhite;
+}
+
+.modal {
+    display: none;
+}
+
+th {
+    text-align: start;
+}
+
+footer {
+    text-align: center;
+    font-family: sans-serif;
+    display: none;
+}
+
+#year {
+    display: none !important;
+}

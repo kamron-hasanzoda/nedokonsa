@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bruce Reyes",
+      "year": "1997"
+    },
+    {
+      "id": 2,
+      "name": "Alex Martin",
+      "year": "2000"
+    },
+    {
+      "id": 3,
+      "name": "Adam Jordan",
+      "year": "1990"
+    }
+  ]
+}
